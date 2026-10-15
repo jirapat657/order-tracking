@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <title>Orderly</title>
+  <defs>
+    <linearGradient id="g" x1="6" y1="2" x2="42" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D1493F"/>
+      <stop offset="1" stop-color="#A32B27"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="13" fill="url(#g)"/>
+  <path d="M22 9 35 16.5 22 24 9 16.5Z" fill="#fff"/>
+  <path d="M9 16.5 22 24V38L9 30.5Z" fill="#fff" fill-opacity=".82"/>
+  <path d="M35 16.5 22 24V38L35 30.5Z" fill="#fff" fill-opacity=".6"/>
+  <path d="M15.5 12.75 28.5 20.25" stroke="#D1493F" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="36" cy="35" r="8" fill="#fff"/>
+  <circle cx="36" cy="35" r="6.25" fill="#A32B27"/>
+  <path d="m32.9 35.2 2.1 2.1 4.1-4.3" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
